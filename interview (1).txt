@@ -1,0 +1,33 @@
+Interviewer: How do I view the MAC address of a device?
+
+Interviewee: Dear user，you can click on the upper right corner button, then click Device Information, you can view the device's ID, IP address, MAC address, time zone, and online status, etc. If you can’t connect to the device through a router to check the MAC address, you need two smartphones that can provide a network hotspot. One phone turns on the hotspot as the network provider and the other can connect to the device. In this way, when you connect the device, you can find the MAC address of the device in the App.
+
+Interviewer: How do I view the IP address of a device?
+
+Interviewee: Dear user，you can click on the upper right corner button, then click Device Information, you can view the device's ID, IP address, MAC address, time zone, and online status, etc. If you can’t connect to the device through a router to check the MAC address, you need two smartphones that can provide a network hotspot. One phone turns on the hotspot as the network provider and the other can connect to the device. In this way, when you connect the device, you can find the MAC address of the device in the App.ess, MAC address, time zone, and online status..
+
+Interviewer: Check whether the device is offline in the App??
+
+Interviewee: Dear user, sorry for the inconvenience. If you want to know if the device is offline in the app, please open the app and see if the device appears offline in the roceed as follows: You can enter the single device control page in the app, click ". . ." in the upper right corner to enter more functions, click "Shared devices" - "Add Sharing", enter the phone number/E-mail of the other party, click Finish, you can put the device Share for family use; Click “Me-“Home Management” in the app to enter the family that needs to be set up, click “Add members”, add family and friends who need to share the device to the family, and share the devices in all the homes without having to The device is re-shared.（The two methods of sharing devices require the other party also has the account of the APP.） The easiest way to share is to log in using a same account.
+
+Interviewer: How do I move an added device to a room??
+
+Interviewee: Dear user, sorry for the inconvenience. If you want to change the device to a different room,you can follow below steps: Tap ... in the lower right corner of the weather information. Select Room Management. Select a room for which you want to add a device. View all devices that have not been added to the room. Tap + in front of a device to add it to the room. Thank you for your support and understanding.
+
+Interviewer: How do I add the app to my Apple Watch?
+
+Interviewee: In the app, choose Me &rt; Watch. On the Watch page, tap Device to display all smart devices bound to the app. Select devices with a plus sign (+) on the left. These devices can be operated through Apple Watch. Devices that cannot be operated through Apple Watch are displayed under "The following devices do not support Apple Watch." Tap Tap-to-Run. All tap-to-run scenes are displayed. Tap the plus sign (+) to add scenes. All messages pushed to the app's Message Center will be sent to your Apple Watch.
+Interviewer: How do I create a device group?
+Interviewee: Tap a device in the device list to enter the device's control panel. Tap the button in the upper right corner to enter the device editing page. Tap Create Group. On the Select Device page, all devices that have been added to the account and have the same model as the device are displayed. Select devices for unified management and tap Save. (Selected devices must have the same embedded firmware version.)
+Interviewer: How do I conveniently control a device?
+Interviewee: If List View is selected for displaying devices in the device list, tap the arrow in the lower right corner of a device to open the Advanced Features page. This page contains common device operations, for example, switching an air conditioner on and off and adjusting its temperature. If Device Sequence is selected for displaying devices in the device list, tap Common Functions under the device name of a device to open the Advanced Features page. This page contains common device operations, for example, switching an air conditioner on and off and adjusting its temperature.
+Interviewer: How to delete only one device in the Tap-to-Run/Automation task?
+Interviewee:Dear user, sorry for the inconvenience. If you want to delete one device in the tap - to -run task/Automation , you can swipe the deivce left and then tap the delete it shows. Thank you for your support.
+Interviewer: How do I cancel a shared device?
+Interviewee: Tap the shared device in the device list to enter the device's control panel. Tap the button in the upper right corner to enter the device editing page. Tap Share Device. If you use an Android mobile phone, tap and hold the device to delete it. If you use an iPhone, slide the device leftward and tap Delete to delete it.
+Interviewer:How do I control a device?
+Interviewee: Tap a device, for example, a lamp in the device list to enter the device's control panel. When the lamp is off, you can only configure the timer and countdown features. When the lamp is on, you can configure the scenes, color, brightness, and timer. Tap the button in the upper right corner to manage the device.
+Interviewer: How to create a scene with the light bulb turned off at sunrise and lit up at sunset?
+Interviewee: Dear user, you can do the following to meet your needs: Firstly, create an automation to turn off the light bulb at worktime: Click to add a schedule, set the time as you go to work and leave home, select the weekday for the effective time, Click next to save the settings, then tap Run the device, select a light, switch it to off, and click save. Click next to save the action, and then click save to save the automation. Next, you need to create another automation to turn on the light bulb after you come back: Click to add a schedule, set the time as you go back home, select the weekday for the effective time, Click next to save the settings, then tap Run the device, select a light, switch it to on, and click save. Click next to save the action, and then click save to save the automation.
+Interviewer: How do I check whether a device's firmware needs to be upgraded?
+Interviewee: Tap the device in the device list to enter the device's control panel. Tap the button in the upper right corner to enter the device editing page. Tap Check for Firmware Update to check whether any firmware updates are available.
